@@ -1,0 +1,12 @@
+    body{
+        text-align: center;
+        background-color: darkgray;
+    }
+    img{
+         text-align: justify; 
+    }
+    footer{
+        border-radius: 10%;
+        border: coral;
+        background-color: coral;
+    }
